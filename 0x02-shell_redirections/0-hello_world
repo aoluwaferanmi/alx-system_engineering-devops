@@ -1,2 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 echo "Hello, World"
+=======
+<<<<<<< HEAD
+eho 'Hello, World'
+=======
+echo 'Hello, World'
+>>>>>>> 0-hello_world
+>>>>>>> 1f71e57a4bd06686f9bd22ce43b34c0f220aa2c0
